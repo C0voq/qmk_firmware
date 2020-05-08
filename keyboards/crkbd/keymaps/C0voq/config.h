@@ -19,11 +19,10 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 */
 
 #pragma once
-
+// #define NO_AUTO_SHIFT_NUMERIC
+// #define COMBO_COUNT 1 
 //#define USE_MATRIX_I2C
-
-/* Select hand configuration */
-
+/* Select hand configuration */ 
 #define MASTER_LEFT
 // #define MASTER_RIGHT
 // #define EE_HANDS
