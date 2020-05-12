@@ -20,7 +20,7 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 
 #pragma once
 // #define NO_AUTO_SHIFT_NUMERIC
-// #define COMBO_COUNT 1 
+ #define COMBO_COUNT 3
 //#define USE_MATRIX_I2C
 /* Select hand configuration */ 
 #define MASTER_LEFT
